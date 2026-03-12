@@ -1,1 +1,1 @@
-this is a first demo of git
+this is a second demo of git
